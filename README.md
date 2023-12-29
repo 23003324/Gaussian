@@ -7,7 +7,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm:
 1. Import numpy,then import sys,assume a variable.
 2. For guassian elimination method,we want to make 2nd and 3rd column as zero.
 3. For that we want to make a range according to our program output.
